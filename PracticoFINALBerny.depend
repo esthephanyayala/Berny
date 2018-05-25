@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511658303 source:c:\users\esthe\onedrive\documentos\visual studio 2015\practicofinalberny\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
